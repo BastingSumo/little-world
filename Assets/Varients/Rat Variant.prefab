@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8547307332520693184
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2904598705260606980, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: m_Radius
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093472, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093472, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093472, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093472, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 23.946156
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093472, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.0317896e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093472, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -34.835197
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093472, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093472, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093472, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093472, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093472, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093472, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093472, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093475, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: Speed
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093475, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: isMale
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093475, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: species
+      value: Rat
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093475, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: offSpring
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093475, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: LifeLength
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093475, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: eating.hungerDegrade
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093475, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: mating.procreateCoolDown
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103442440513093479, guid: 25b7b1cb3cedc114aa668896a7802ccb,
+        type: 3}
+      propertyPath: m_Name
+      value: Rat Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 25b7b1cb3cedc114aa668896a7802ccb, type: 3}
